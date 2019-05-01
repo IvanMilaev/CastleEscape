@@ -8,9 +8,10 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent
-BuildingEscape/Content/StarterContent/Textures
-BuildingEscape/Content/StarterContent/HDRI
+CastleEscape/Content/StarterContent
+CastleEscape/Content/StarterContent/Textures
+CastleEscape/Content/StarterContent/HDRI
+CastleEscape/Content/MultistoryDungeons
 
 ######################
 # VS Generated Files #
